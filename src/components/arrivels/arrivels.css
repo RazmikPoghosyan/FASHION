@@ -1,0 +1,14 @@
+.arrivels {
+padding-top: 120px;
+padding-bottom: 143px;
+}
+
+.arrivels__header {
+    margin-bottom: 100px;
+}
+
+.arrivels__cards{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}
