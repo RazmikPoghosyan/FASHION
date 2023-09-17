@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FASHION/static/css/main.daed0edc.css",
+    "main.js": "/FASHION/static/js/main.875d8add.js",
+    "static/js/787.eaad36ba.chunk.js": "/FASHION/static/js/787.eaad36ba.chunk.js",
+    "static/media/header-img.jpg": "/FASHION/static/media/header-img.04c4840f1ac9b5280e62.jpg",
+    "static/media/03.jpg": "/FASHION/static/media/03.eb7b961d3b91a131fa9d.jpg",
+    "static/media/01.jpg": "/FASHION/static/media/01.2172bcd59fc32be2c0f9.jpg",
+    "static/media/02.jpg": "/FASHION/static/media/02.5d775bc4f57febe12b74.jpg",
+    "static/media/Amazon.png": "/FASHION/static/media/Amazon.8147eaff712ddbb636a0.png",
+    "static/media/Shopify.png": "/FASHION/static/media/Shopify.bf70fa9caf43cad1e916.png",
+    "static/media/Vector.svg": "/FASHION/static/media/Vector.fa6ed5442940b2375841123db8c623be.svg",
+    "index.html": "/FASHION/index.html",
+    "static/media/Arrow 1.svg": "/FASHION/static/media/Arrow 1.4e8b5b62eeef1c2fae2eb0bd5e12fa2a.svg",
+    "static/media/Vector 8.svg": "/FASHION/static/media/Vector 8.8d8b4e322ef013cf6aba.svg",
+    "static/media/Vector 9.svg": "/FASHION/static/media/Vector 9.1cde02ab1a06cdaddfa4.svg",
+    "main.daed0edc.css.map": "/FASHION/static/css/main.daed0edc.css.map",
+    "main.875d8add.js.map": "/FASHION/static/js/main.875d8add.js.map",
+    "787.eaad36ba.chunk.js.map": "/FASHION/static/js/787.eaad36ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daed0edc.css",
+    "static/js/main.875d8add.js"
+  ]
+}
